@@ -1,0 +1,13 @@
+{
+  "name": "web-development-extension-pack",
+  "displayName": "Web Development Extension Pack",
+  "description": "Everything you need for web development",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.86.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": []
+}
