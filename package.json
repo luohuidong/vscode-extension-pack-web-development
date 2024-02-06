@@ -46,5 +46,9 @@
     "vunguyentuan.vscode-css-variables",
     "wallabyjs.quokka-vscode",
     "wayou.vscode-todo-highlight"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/luohuidong/web-development-extension-pack"
+  }
 }
