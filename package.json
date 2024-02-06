@@ -9,5 +9,41 @@
   "categories": [
     "Extension Packs"
   ],
-  "extensionPack": []
+  "extensionPack": [
+    "astro-build.astro-vscode",
+    "bradlc.vscode-tailwindcss",
+    "chakrounanas.turbo-console-log",
+    "christian-kohler.npm-intellisense",
+    "dbaeumer.vscode-eslint",
+    "donjayamanne.githistory",
+    "eamodio.gitlens",
+    "ecmel.vscode-html-css",
+    "editorconfig.editorconfig",
+    "esbenp.prettier-vscode",
+    "github.copilot",
+    "github.remotehub",
+    "github.vscode-github-actions",
+    "graphql.vscode-graphql-execution",
+    "graphql.vscode-graphql-syntax",
+    "graphql.vscode-graphql",
+    "lokalise.i18n-ally",
+    "mikestead.dotenv",
+    "ms-azuretools.vscode-docker",
+    "ms-kubernetes-tools.vscode-kubernetes-tools",
+    "ms-vscode-remote.remote-ssh-edit",
+    "ms-vscode-remote.vscode-remote-extensionpack",
+    "ms-vscode.live-server",
+    "ms-vscode.remote-explorer",
+    "ms-vscode.remote-repositories",
+    "prisma.prisma",
+    "redhat.vscode-yaml",
+    "ritwickdey.liveserver",
+    "runem.lit-plugin",
+    "svelte.svelte-vscode",
+    "vue.volar",
+    "vue.vscode-typescript-vue-plugin",
+    "vunguyentuan.vscode-css-variables",
+    "wallabyjs.quokka-vscode",
+    "wayou.vscode-todo-highlight"
+  ]
 }
