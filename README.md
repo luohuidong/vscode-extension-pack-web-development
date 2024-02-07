@@ -1,8 +1,10 @@
 # Web Development Extension Pack
 
-Everything you need for web development
+A VS Code extension pack for web development.
 
-## Language Support
+## Extensions Included
+
+### Language Support
 
 - Astro
 - CSS Variable Autocomplete
@@ -17,7 +19,7 @@ Everything you need for web development
 - TypeScript Vue Plugin (Volar)
 - Vue Language Features (Volar)
 
-## Tools
+### Tools
 
 - Docker
 - Dotenv
@@ -41,9 +43,18 @@ Everything you need for web development
 - Version Lens
 - YAML
 
-## Remote Development
+### Remote Development
 
 - GitHub Repositories
 - Remote - SSH: Editing Configuration Files
 - Remote Development
 - Remote Explorer
+
+## Development Workflow
+
+- modify package.json `extensionPack` field.
+- modify CHANGELOG.md
+- modify package.json `version` field.
+- modify README.md Extensions Included section.
+- use `vsce package` to create a .vsix file.
+- use `vsce publish` to publish the extension pack to the marketplace.
