@@ -38,6 +38,7 @@ A VS Code extension pack for web development.
 - npm Intellisense
 - Pretter - Code formatter
 - Quokka.js
+- Thunder Client
 - TODO Highlight
 - Turbo Console Log
 - Version Lens
@@ -52,9 +53,9 @@ A VS Code extension pack for web development.
 
 ## Development Workflow
 
-- modify package.json `extensionPack` field.
-- modify CHANGELOG.md
-- modify package.json `version` field.
-- modify README.md Extensions Included section.
-- use `vsce package` to create a .vsix file.
-- use `vsce publish` to publish the extension pack to the marketplace.
+1. modify package.json `extensionPack` field.
+1. modify CHANGELOG.md
+1. modify README.md Extensions Included section.
+1. use `pnpm version` to modify the package.json `version` field.
+1. use `vsce package` to create a .vsix file.
+1. use `vsce publish` to publish the extension pack to the marketplace.
