@@ -4,12 +4,12 @@ All notable changes to the "web-development-extension-pack" extension pack will 
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [0.2.0]
+## [1.1.0]
 
 - Add Error Lens
 - Add Version Lens
 - Add Import Cost
 
-## [0.1.0]
+## [1.0.0]
 
 - Initial release
