@@ -36,16 +36,19 @@
     "ms-vscode.live-server",
     "ms-vscode.remote-explorer",
     "ms-vscode.remote-repositories",
+    "pflannery.vscode-versionlens",
     "prisma.prisma",
     "redhat.vscode-yaml",
     "ritwickdey.liveserver",
     "runem.lit-plugin",
     "svelte.svelte-vscode",
+    "usernamehw.errorlens",
     "vue.volar",
     "vue.vscode-typescript-vue-plugin",
     "vunguyentuan.vscode-css-variables",
     "wallabyjs.quokka-vscode",
-    "wayou.vscode-todo-highlight"
+    "wayou.vscode-todo-highlight",
+    "wix.vscode-import-cost"
   ],
   "repository": {
     "type": "git",

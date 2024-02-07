@@ -5,42 +5,45 @@ Everything you need for web development
 ## Language Support
 
 - Astro
-- Tailwind CSS IntelliSense
-- HTML CSS Support
+- CSS Variable Autocomplete
+- GraphQL: Inline Operation Execution
 - GraphQL: Language Feature Support
 - GraphQL: Syntax Highlighting
-- GraphQL: Inline Operation Execution
-- Prisma
+- HTML CSS Support
 - lit-plugin
+- Prisma
 - Svelte for VS Code
-- Vue Language Features (Volar)
+- Tailwind CSS IntelliSense
 - TypeScript Vue Plugin (Volar)
-- CSS Variable Autocomplete
+- Vue Language Features (Volar)
 
 ## Tools
 
-- ESLint
-- npm Intellisense
-- Turbo Console Log
-- Git History
-- GitLens
-- EditorConfig for VS Code
-- Pretter - Code formatter
-- GitHub Copilot
-- GitHub Actions
-- i18n Ally
-- Dotenv
 - Docker
+- Dotenv
+- EditorConfig for VS Code
+- Error Lens
+- ESLint
+- Git History
+- GitHub Actions
+- GitHub Copilot
+- GitLens
+- i18n Ally
+- Import Cost
 - Kubernetes
 - Live Preview
 - Live Server
-- YAML
+- npm Intellisense
+- Pretter - Code formatter
 - Quokka.js
 - TODO Highlight
+- Turbo Console Log
+- Version Lens
+- YAML
 
 ## Remote Development
 
-- Remote Development
 - GitHub Repositories
 - Remote - SSH: Editing Configuration Files
+- Remote Development
 - Remote Explorer
