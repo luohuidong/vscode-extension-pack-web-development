@@ -4,6 +4,10 @@ All notable changes to the "web-development-extension-pack" extension pack will 
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.3.0]
+
+- Remove TypeScript Vue Plugin (Volar)
+
 ## [1.2.0]
 
 - Add Thunder Client

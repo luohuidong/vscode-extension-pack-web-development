@@ -1,6 +1,6 @@
 {
   "name": "web-development-extension-pack",
-  "displayName": "Web Development Extensions",
+  "displayName": "Web Development Extension pack",
   "description": "Everything you need for web development",
   "version": "1.2.0",
   "icon": "./icon.png",
@@ -45,7 +45,6 @@
     "svelte.svelte-vscode",
     "usernamehw.errorlens",
     "vue.volar",
-    "vue.vscode-typescript-vue-plugin",
     "vunguyentuan.vscode-css-variables",
     "wallabyjs.quokka-vscode",
     "wayou.vscode-todo-highlight",

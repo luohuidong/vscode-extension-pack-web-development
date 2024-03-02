@@ -16,7 +16,6 @@ A VS Code extension pack for web development.
 - Prisma
 - Svelte for VS Code
 - Tailwind CSS IntelliSense
-- TypeScript Vue Plugin (Volar)
 - Vue Language Features (Volar)
 
 ### Tools
