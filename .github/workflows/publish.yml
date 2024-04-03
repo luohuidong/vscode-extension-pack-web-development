@@ -13,6 +13,4 @@ jobs:
           node-version: "20.x"
       - run: npm ci
       - run: npx vsce package
-      - run: npx vsce publish --pat
-        env:
-          VSCE_PAT: ${{ secrets.VSCE_PAT }}
+      - run: npx vsce publish --pat ${{ secrets.VSCE_PAT }}
