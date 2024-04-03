@@ -60,5 +60,5 @@ A VS Code extension pack for web development.
 1. modify CHANGELOG.md
 1. modify README.md Extensions Included section.
 1. use `pnpm version` to modify the package.json `version` field.
-1. use `vsce package` to create a .vsix file.
-1. use `vsce publish` to publish the extension pack to the marketplace.
+1. use `npx vsce package` to create a .vsix file.
+1. use `npx vsce publish` to publish the extension pack to the marketplace.
