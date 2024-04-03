@@ -35,12 +35,16 @@ A VS Code extension pack for web development.
 - Live Preview
 - Live Server
 - npm Intellisense
+- Postman
 - Pretter - Code formatter
 - Quokka.js
+- Tauri
 - Thunder Client
 - TODO Highlight
 - Turbo Console Log
 - Version Lens
+- Vitest
+- Wallaby.js
 - YAML
 
 ### Remote Development

@@ -4,6 +4,13 @@ All notable changes to the "web-development-extension-pack" extension pack will 
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [1.4.0]
+
+- Add Postman
+- Add Tauri
+- Add Vitest
+- Add Wallaby.js
+
 ## [1.3.0]
 
 - Remove TypeScript Vue Plugin (Volar)
